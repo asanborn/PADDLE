@@ -1,7 +1,7 @@
 # PADDLE
 #### (Predictor of Activation Domains using Deep Learning in Eukaryotes)
 
-PADDLE is a deep convolutional neural network that predicts acidic transcriptional activation domains (ADs) from protein sequence. PADDLE can predict both the position and relative strength of acidic ADs. It was trained on high-throughput activation assay data in yeast (S. cerevisiae), but due to the high conservation of acidic AD function across eukaryotes, also predicts activation of human proteins in human cells. See [Sanborn et al. _eLife_ (2021)](https://https://elifesciences.org/articles/68068) for a full description of the experimental and computational methods.
+PADDLE is a deep convolutional neural network that predicts acidic transcriptional activation domains (ADs) from protein sequence. PADDLE can predict both the position and relative strength of acidic ADs. It was trained on high-throughput activation assay data in yeast (S. cerevisiae), but due to the high conservation of acidic AD function across eukaryotes, also predicts activation of human proteins in human cells. See [Sanborn et al. _eLife_ (2021)](https://elifesciences.org/articles/68068) for a full description of the experimental and computational methods.
 
 Included here is:
 - PADDLE model files, for loading using TensorFlow (models/)
